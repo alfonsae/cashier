@@ -1,0 +1,3 @@
+LP001|Laptop|5000000
+M0001|Mouse|250000
+LP002|Laptop Gaming|250000
